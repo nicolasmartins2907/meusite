@@ -1,6 +1,5 @@
 <h1> HTML Teste
     <!DOCTYPE html>
-     <img src="senac.png.png"
             <html lang="pt-br">
                     <head>
                             <title>Nicolas</title><title></title>
@@ -19,7 +18,7 @@
                             color: rgb(130, 202, 235);
                      }
                     </style>   
-                    
+       <img src="senac.png.png"   
             
         
 
